@@ -9,7 +9,7 @@ import ModalComp from './ModalComp'
 function ProfilePageIndex() {
   const [Userdata, setUserdata] = useState({
     username: 'codingarpan',
-    email: 'contact.codingarpan@gmai.com',
+    email: 'contact.abc@gmail.com',
     bio: "Web Devloper | Looking for Internship | MERN Stack | Typescript | Nextjs | TailwindCSS | Git & Github | AWS",
     contact: '7679812045',
     password: 'ajs99ass',
